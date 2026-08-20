@@ -3,6 +3,8 @@
 Strategie- und Evaluationsdokumente für ein einnahmengenerierendes Netzwerk aus Webprojekten im deutschen Energiesektor, aufgebaut um den bestehenden **Energiekosten-Rechner** als Hub.
 
 > Stand: August 2026. Basis: systematische Marktrecherche (6 Themenfelder, ~90 Quellen), 21 generierte Projektideen aus drei Perspektiven (Umsatz, SEO, Innovation), konsolidiert zu 12 Projekten und von zwei unabhängigen kritischen Bewertungen (Business-Skeptiker, SEO-Realist) gescort.
+>
+> **Wichtig:** Der Hub existiert bereits als [stromfazit](https://github.com/SyxGit-hub/stromfazit) und hat mehrere der Bauen-Projekte schon live (Lastprofil-Analyzer, §14a-Rechner, Wärmepumpen-Rechner, SMARD-Datenpipeline) — aber **null aktive Monetarisierung**. Abgleich und revidierte Prioritäten: [docs/05](docs/05-bestandsaufnahme-stromfazit.md).
 
 ## Die Kernentscheidung: Eine Domain, ein Netz
 
@@ -50,6 +52,7 @@ Score = Mittelwert beider Judges über 5 Dimensionen (Umsatzpotenzial, Wettbewer
 | [docs/02-projekt-evaluation.md](docs/02-projekt-evaluation.md) | Alle 12 Projekte im Detail: Konzept, Monetarisierung, Scores, Judge-Begründungen, Risiken |
 | [docs/03-netzwerk-architektur.md](docs/03-netzwerk-architektur.md) | Hub-and-Spoke-Struktur, geteilte Datenschichten, Monetarisierungs-Routing, Tech-Stack, EEAT |
 | [docs/04-roadmap.md](docs/04-roadmap.md) | Phasenplan mit Entscheidungs-Gates, KPIs und Umsatzlogik |
+| [docs/05-bestandsaufnahme-stromfazit.md](docs/05-bestandsaufnahme-stromfazit.md) | **Abgleich mit dem realen Stand von stromfazit.de** — was schon live ist, was fehlt, revidierte Roadmap |
 
 ## Die Logik hinter allem: Euro pro Besucher (EPV)
 
