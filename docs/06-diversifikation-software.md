@@ -53,7 +53,11 @@ Nach der BEG-Reform (neue TPB-IDs, geänderte Boni, Verwendungsnachweise) existi
 - **PV-Steuer-Software:** Nische seit Steuerbefreiung (≤30 kWp, 0 % USt) strukturell schrumpfend; Incumbent hat sein Modul eingestellt. Nur als Report-Feature in Kandidat A.
 - **JAZ-Rechner als Produkt:** Gratis-Commodity (BWP, dena, Ochsner).
 
-## Empfehlung & nächste Schritte
+## Entscheidung (19.08.2026)
+
+**Kandidat A wird umgesetzt** — Produktplan und Architektur im eigenen Repo [`stromfazit-studio`](https://github.com/SyxGit-hub/stromfazit-studio) (PRODUKTPLAN.md, ARCHITEKTUR.md; Meilensteine M0–M5 mit Validierungs-Gate). **Kandidat B ist als Zweitprojekt dokumentiert** in [docs/07-projekt-b-heizlastcheck.md](07-projekt-b-heizlastcheck.md) — Start nach Studio-Launch oder falls dessen M0-Gate scheitert.
+
+## Empfehlung & nächste Schritte (ursprüngliche Analyse)
 
 **Kandidat A zuerst** — einziger Kandidat mit existierendem Funnel (stromfazit), existierender Datenpipeline, Marken-Fit und Einmalkauf-Modell ohne B2B-Vertriebslast. **Kandidat B als zweites Standbein**, sobald A läuft — höherer Umsatz pro Kunde, aber Kaltstart und Norm-Haftung.
 
